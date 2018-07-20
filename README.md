@@ -1,5 +1,5 @@
-# School-Dataset_GUI
-exercise using sqlite3 and tkinter libraries for backend and frontend programming
+# School-Records_GUI
+sqlite3 and tkinter libraries for backend and frontend programming
 
 •	Define and create a database with the following columns:  
   Student_Name, (Long text)
